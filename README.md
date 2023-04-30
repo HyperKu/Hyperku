@@ -17,8 +17,8 @@
     ---------------------------
 ### Acerca de mí
 
-1. Actualmente estoy aprendiendo sobre desarrollo Backend en Java y base de datos con MySQL
-2. A la par estoy tomando un curso de soporte técnico en TI de Google en Coursera
+1. Actualmente estoy aprendiendo sobre desarrollo Backend en Java y base de datos con MySQL.
+2. A la par estoy tomando un curso de soporte técnico en TI de Google en Coursera.
 
 ```Python
 
